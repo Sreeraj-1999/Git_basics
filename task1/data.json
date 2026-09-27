@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Sreeraj",
+        "course": "Flask",
+        "score": 85
+    },
+    {
+        "id": 2,
+        "name": "Rahul",
+        "course": "Python",
+        "score": 90
+    },
+    {
+        "id": 3,
+        "name": "Arun",
+        "course": "MongoDB",
+        "score": 78
+    }
+]
